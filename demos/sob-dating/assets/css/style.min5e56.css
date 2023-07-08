@@ -27,6 +27,11 @@
       text-shadow: 1px 1px 1px rgb(0, 0, 0)!important;
       font-size: 80px!important;
   }
+  .gh2 {
+    color:#50da62;
+    text-shadow: 1px 1px 1px rgb(0, 0, 0)!important;
+    font-size: 30px!important;
+}
 /*!
 Template Name: SobTheme
 Demo Name: Sob-Dating
@@ -2306,7 +2311,7 @@ select {
 
     .menu li .submenu li a:hover,
     .menu li .submenu li a.active {
-        background: #219cb1;
+        background: #2db121;
         padding-left: 22px;
         color: #fff
     }
@@ -2350,7 +2355,7 @@ select {
         -ms-transform: scaleY(0);
         transform: scaleY(0);
         transform-origin: top;
-        background: #004f83;
+        background: #008307;
         backdrop-filter: blur(20px);
         -webkit-backdrop-filter: blur(20px)
     }
@@ -2371,7 +2376,7 @@ select {
     }
 
     .menu li a:hover {
-        background: #0ca5f1;
+        background: #0cf145;
     }
 
     .menu li .submenu {
