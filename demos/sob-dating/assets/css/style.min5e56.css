@@ -30,7 +30,7 @@
   .gh2 {
     color:#50da62;
     text-shadow: 1px 1px 1px rgb(0, 0, 0)!important;
-    font-size: 30px!important;
+    font-size: 40px!important;
 }
 /*!
 Template Name: SobTheme
@@ -464,7 +464,7 @@ a h6 {
 .group-item .lab-inner,
 .story-item,
 .about-item .lab-inner {
-    background-color: #004f83
+    background-color: #348300
 }
 
 .cart-plus-minus .qtybutton,
@@ -2702,7 +2702,7 @@ select {
     /* background: radial-gradient(circle, rgba(33,156,177,1) 0%, rgba(0,79,131,1) 100%); */
     background: linear-gradient(61deg, rgb(15, 131, 0) 0%, #44d221 52%, rgb(11, 131, 0) 100%);
     background-size: cover;
-    padding-top:120px
+    padding-top:300px
 }
 
 @media(min-width: 576px) {
