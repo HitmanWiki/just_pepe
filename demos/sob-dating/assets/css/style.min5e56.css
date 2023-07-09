@@ -2070,7 +2070,7 @@ select {
 .header-section.header-fixed .header-bottom {
     background: #1a8300;
     
-    padding-top:50px;
+    padding-top:0px;
 }
 
 .header-top {
